@@ -19,8 +19,8 @@
 ![tree_base](/tree_base.png)
 
 ## Type
-* [二叉树](/mds/binary_tree.md)
-* [二叉查找树](/mds/bst_tree.md)
+* [二叉树]()
+* [二叉查找树]()
 * [平衡二叉树]()
 * [红黑树]()
 * [B 树]()
