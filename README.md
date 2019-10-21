@@ -16,7 +16,7 @@
 * 子孙：以某点为根的子树中任一结点都称为该结点的子孙
 * 森林：互不相交的树的集合
 
-![tree_base](/tree_base.jpg)
+![tree_base](/tree_base.png)
 
 ## Type
 * 二叉树
